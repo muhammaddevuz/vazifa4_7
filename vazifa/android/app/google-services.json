@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "194096779959",
+    "project_id": "dars4-6",
+    "storage_bucket": "dars4-6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194096779959:android:2cdcc283873c8160bdf332",
+        "android_client_info": {
+          "package_name": "com.example.dars_6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoeCKQoQh-22ciH4mu9hRx2Hddbhd7dZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194096779959:android:0e430326b08dce96bdf332",
+        "android_client_info": {
+          "package_name": "com.example.dars_7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoeCKQoQh-22ciH4mu9hRx2Hddbhd7dZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194096779959:android:2fc7b1efb0561edcbdf332",
+        "android_client_info": {
+          "package_name": "com.example.vazifa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoeCKQoQh-22ciH4mu9hRx2Hddbhd7dZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
